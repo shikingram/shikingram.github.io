@@ -92,3 +92,11 @@ MES系统是一个工厂的管理系统，包含OA（请假、排班、打卡、
 主要工作如下：
 - 驻场开发，车间系统问题收集
 - 负责本纤染色流程、配纤流程、质检管理、仓库管理、开完工、排班、等等生产过程模块化开发
+
+# 其他
+**Kubevela PR**   
+- [Feat: add Harbor webhook trigger](https://github.com/kubevela/kubevela/pull/3065)
+- [Fix: Fix the inaccurate judgment of ready status](https://github.com/kubevela/kubevela/pull/3317)
+**技术文章**   
+- [kubeedge](http://kingram.top/posts/cloud_native/kubeedge/)
+- [wadm oam模型设计](http://kingram.top/posts/wadm/wadm/)
