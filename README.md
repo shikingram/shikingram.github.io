@@ -97,6 +97,7 @@ MES系统是一个工厂的管理系统，包含OA（请假、排班、打卡、
 **Kubevela PR**   
 - [Feat: add Harbor webhook trigger](https://github.com/kubevela/kubevela/pull/3065)
 - [Fix: Fix the inaccurate judgment of ready status](https://github.com/kubevela/kubevela/pull/3317)
+
 **技术文章**   
 - [kubeedge](http://kingram.top/posts/cloud_native/kubeedge/)
 - [wadm oam模型设计](http://kingram.top/posts/wadm/wadm/)
