@@ -1,7 +1,7 @@
 # 个人信息
 - 姓名：石坤
 - 出生年月：1997年1月
-- 邮箱：kingram390659505@gmail.com/kingram@163.com
+- 邮箱：kingram@163.com
 - 电话：17625952168（同微信）
 - Github: https://github.com/shikingram
 - 职位：Golang开发工程师
