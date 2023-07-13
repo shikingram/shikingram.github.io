@@ -18,7 +18,7 @@
 	- Prometheus监控
  	- ELK日志分析 
 - 数据库
-	- MySQL了解常用的SQL优化，熟练使用gorm
+	- MySQL，熟练使用gorm
 	- RabbitMQ、Redis缓存技术，在项目中可以熟练使用
 - 其他工具
 	- Git熟练使用
