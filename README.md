@@ -16,6 +16,7 @@
 	- gitops流程
 	- runner、pipeline 触发器
 	- Prometheus监控
+ 	- ELK日志分析 
 - 数据库
 	- MySQL了解常用的SQL优化，熟练使用gorm
 	- RabbitMQ、Redis缓存技术，在项目中可以熟练使用
